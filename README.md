@@ -20,6 +20,52 @@ JomiReady explores a digital approach to organizing verification requests, case 
 - **Evidence Management:** Add supporting evidence and update evidence status.
 - **Case Tracking:** Review case information and available status indicators.
 - **Data Persistence:** Preserve supported application data across page refreshes using the current implementation.
+## Screenshots
+
+### 1. Homepage
+
+![JomiReady Homepage - Top](public/screenshots/homepage-top.png)
+
+![JomiReady Homepage - Upper Middle](public/screenshots/homepage-upper-middle.png)
+
+![JomiReady Homepage - Lower Middle](public/screenshots/homepage-lower-middle.png)
+
+![JomiReady Homepage - Lower Section](public/screenshots/homepage-lower.png)
+
+### 2. Land Verification
+
+![Verification Page 1](public/screenshots/verification-page-01.png)
+
+![Verification Page 2](public/screenshots/verification-page-02.png)
+
+![Verification Page 3](public/screenshots/verification-page-03.png)
+
+![Verification Page 4](public/screenshots/verification-page-04.png)
+
+![Verification Page 5](public/screenshots/verification-page-05.png)
+
+### 3. Staff Dashboard
+
+![Dashboard Page 1](public/screenshots/dashboard-page-01.png)
+
+![Dashboard Page 2](public/screenshots/dashboard-page-02.png)
+
+![Dashboard Page 3](public/screenshots/dashboard-page-03.png)
+
+![Dashboard Page 4](public/screenshots/dashboard-page-04.png)
+
+![Dashboard Page 5](public/screenshots/dashboard-page-05.png)
+
+### 4. Evidence Manager
+
+![Evidence Manager Page 1](public/screenshots/evidence-manager-01.png)
+
+![Evidence Manager Page 2](public/screenshots/evidence-manager-02.png)
+
+
+
+
+
 
 ## Technology Stack
 
