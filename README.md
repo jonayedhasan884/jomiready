@@ -22,46 +22,61 @@ JomiReady explores a digital approach to organizing verification requests, case 
 - **Data Persistence:** Preserve supported application data across page refreshes using the current implementation.
 ## Screenshots
 
-### 1. Homepage
+## Screenshots
 
-![JomiReady Homepage - Top](public/screenshots/homepage-top.png)
+Explore the JomiReady interface through the screenshots below.
 
-![JomiReady Homepage - Upper Middle](public/screenshots/homepage-upper-middle.png)
+<details>
+<summary><strong>1. Homepage</strong></summary>
 
-![JomiReady Homepage - Lower Middle](public/screenshots/homepage-lower-middle.png)
+![Homepage - Top](public/screenshots/homepage-top.png)
 
-![JomiReady Homepage - Lower Section](public/screenshots/homepage-lower.png)
+![Homepage - Upper Middle](public/screenshots/homepage-upper-middle.png)
 
-### 2. Land Verification
+![Homepage - Lower Middle](public/screenshots/homepage-lower-middle.png)
 
-![Verification Page 1](public/screenshots/verification-page-01.png)
+![Homepage - Bottom](public/screenshots/homepage-lower.png)
 
-![Verification Page 2](public/screenshots/verification-page-02.png)
+</details>
 
-![Verification Page 3](public/screenshots/verification-page-03.png)
+<details>
+<summary><strong>2. Land Verification</strong></summary>
 
-![Verification Page 4](public/screenshots/verification-page-04.png)
+![Land Verification - Page 1](public/screenshots/verification-page-01.png)
 
-![Verification Page 5](public/screenshots/verification-page-05.png)
+![Land Verification - Page 2](public/screenshots/verification-page-02.png)
 
-### 3. Staff Dashboard
+![Land Verification - Page 3](public/screenshots/verification-page-03.png)
 
-![Dashboard Page 1](public/screenshots/dashboard-page-01.png)
+![Land Verification - Page 4](public/screenshots/verification-page-04.png)
 
-![Dashboard Page 2](public/screenshots/dashboard-page-02.png)
+![Land Verification - Page 5](public/screenshots/verification-page-05.png)
 
-![Dashboard Page 3](public/screenshots/dashboard-page-03.png)
+</details>
 
-![Dashboard Page 4](public/screenshots/dashboard-page-04.png)
+<details>
+<summary><strong>3. Staff Dashboard</strong></summary>
 
-![Dashboard Page 5](public/screenshots/dashboard-page-05.png)
+![Staff Dashboard - Page 1](public/screenshots/dashboard-page-01.png)
 
-### 4. Evidence Manager
+![Staff Dashboard - Page 2](public/screenshots/dashboard-page-02.png)
 
-![Evidence Manager Page 1](public/screenshots/evidence-manager-01.png)
+![Staff Dashboard - Page 3](public/screenshots/dashboard-page-03.png)
 
-![Evidence Manager Page 2](public/screenshots/evidence-manager-02.png)
+![Staff Dashboard - Page 4](public/screenshots/dashboard-page-04.png)
 
+![Staff Dashboard - Page 5](public/screenshots/dashboard-page-05.png)
+
+</details>
+
+<details>
+<summary><strong>4. Evidence Manager</strong></summary>
+
+![Evidence Manager - Page 1](public/screenshots/evidence-manager-01.png)
+
+![Evidence Manager - Page 2](public/screenshots/evidence-manager-02.png)
+
+</details>
 
 
 
