@@ -44,7 +44,7 @@ Install the following before running the project:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone git clone https://github.com/jonayedhasan884/jomiready.git
 ```
 
 Move into the project directory:
